@@ -5,6 +5,35 @@ This sample demonstrates how to automatically solve an hCaptcha using JavaScript
 ## Demo:
 ![image](https://github.com/user-attachments/assets/33e28113-d6c5-4561-a8b2-a0c4b7dcac23)
 
+## How to Get Started
+
+1. Clone the Repository
+   
+   Clone this repository to your local machine:
+ 
+   ```
+   git clone https://github.com/clemmie24m/solving-hCaptcha-using-puppeteer.git
+   ```
+
+2. Install Dependencies
+   
+   Navigate to the project directory and install the required packages:
+   ```
+   npm install
+   ```
+   
+3. Configure the Application
+   Set your APIKEY in the `./index.js` file.
+   > Note: Your APIKEY is available in your personal account at 2captcha.com. Before copying, ensure that your account has the "developer" role enabled. (Because even captchas need a VIP pass sometimes!)
+
+4. Start the Application
+   Launch the application using the following command:
+   ```
+   npm run start
+   ```
+   
+   Now you're all set to let your code handle the heavy lifting – solving captchas so you don't have to. Happy coding! 🚀
+
 ## Source code:
 Source code [index.js](/index.js):
 ```js
