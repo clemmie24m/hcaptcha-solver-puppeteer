@@ -1,3 +1,6 @@
+![hcaptcha solver screenshot](https://github.com/user-attachments/assets/cf327968-7229-45b1-bf5c-8baa8d7e8230)
+
+
 # hcaptcha-solver-puppeteer
 
 This sample demonstrates how to automatically solve an hCaptcha using JavaScript with the Puppeteer library. It leverages the 2captcha.com service to handle the captcha challenge found on the page https://democaptcha.com/demo-form-eng/hcaptcha.html. An active 2captcha.com account is necessary for this example to function.
