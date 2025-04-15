@@ -1,0 +1,2 @@
+# hcaptcha-solver-puppeteer
+example
