@@ -1,6 +1,4 @@
-![439001856-caff6caa-814c-4f89-a6b1-86e5d71518c5 (2)](https://github.com/user-attachments/assets/f51518a3-4d16-48fe-b67c-4b469ec4a68e)
-
-<!-- ![hcaptcha solver screenshot](https://github.com/user-attachments/assets/cf327968-7229-45b1-bf5c-8baa8d7e8230) -->
+![440455872-f51518a3-4d16-48fe-b67c-4b469ec4a68e-ezgif com-optimize](https://github.com/user-attachments/assets/1e4576ed-685f-4e34-a1e3-69310eb20b5a)
 
 # hcaptcha solver puppeteer
 
