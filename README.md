@@ -1,9 +1,6 @@
-
-![hcaptcha-solver-demo-gif](https://github.com/user-attachments/assets/caff6caa-814c-4f89-a6b1-86e5d71518c5)
-
+![439001856-caff6caa-814c-4f89-a6b1-86e5d71518c5 (2)](https://github.com/user-attachments/assets/f51518a3-4d16-48fe-b67c-4b469ec4a68e)
 
 <!-- ![hcaptcha solver screenshot](https://github.com/user-attachments/assets/cf327968-7229-45b1-bf5c-8baa8d7e8230) -->
-
 
 # hcaptcha solver puppeteer
 
